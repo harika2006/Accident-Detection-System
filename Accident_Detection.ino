@@ -21,7 +21,7 @@ delay(1000);
 } 
 void readgsm() 
 { 
-//Begin serial communication with Arduino and Arduino IDE 
+//Begin serial communication with Arduino and Arduino IDE.
 
 Serial.begin(9600); 
 //Begin serial communication with Arduino and SIM900 
